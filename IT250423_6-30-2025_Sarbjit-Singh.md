@@ -65,6 +65,7 @@ Useful in automation or scripting scenarios.
 Requires careful use to avoid triggering wrong tools.
 
 Question 2
+tutorials on Windows File Explorer
 Links to open sites:
 https://www.techradar.com/how-to/how-to-use-file-explorer-in-windows-11
 https://www.customguide.com/windows-10/file-explorer
