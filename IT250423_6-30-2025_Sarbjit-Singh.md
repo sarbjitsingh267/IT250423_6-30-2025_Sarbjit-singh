@@ -63,3 +63,17 @@ My Comments:
 Good for power users who want fast access.
 Useful in automation or scripting scenarios.
 Requires careful use to avoid triggering wrong tools.
+
+Question 2
+Links to open sites:
+https://www.techradar.com/how-to/how-to-use-file-explorer-in-windows-11
+https://www.customguide.com/windows-10/file-explorer
+https://edu.gcfglobal.org/en/windowsbasics/working-with-files/1/
+
+My Reflection on These Resources:
+TechRadar: The guide is ideally suited for users who have an understanding of the basic concepts and would like to move on to more sophisticated features in Windows 11. The guide contains neat instructions and images, making it easy to grasp.
+
+CustomGuide: The hands-on tutorials are ideal for users who learn by doing. The step-by-step advice ensures that users comprehend each concept before moving on to the next one.
+customguide.com
+
+GCFGlobal: This is a fantastic resource for total beginners. The simple language and tidy graphics make it accessible to new computer or file management users.
