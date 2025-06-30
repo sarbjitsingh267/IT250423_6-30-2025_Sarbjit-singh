@@ -21,6 +21,15 @@ https://www.reddit.com/r/excel/comments/kqixah/if_your_excel_sheet_is_unusually_
 Explanation:
 The error "not enough memory" in Microsoft Excel on a Windows 11 laptop with Chrome and many open tabs is likely due to a combination of factors. Excel's memory usage, Chrome's memory consumption from numerous open tabs, and potentially a lack of available system memory can all contribute to this issue. 
 
+Part B:
+https://help.corsair.com/hc/en-us/articles/14238510858637-RAM-How-to-Test-RAM-Modules-for-Memory-Issues
+https://learn.microsoft.com/en-us/troubleshoot/windows-client/performance/stop-error-or-blue-screen-error-troubleshooting
+https://www.pcmag.com/how-to/how-to-check-for-memory-problems-in-windows
+https://www.microsoft.com/en-us/surface/do-more-with-surface/how-to-use-windows-memory-diagnostic
+https://superuser.com/questions/437918/how-do-i-find-whats-eating-up-all-of-my-systems-memory-not-superfetch
+
+Explanation:
+Basic Windows memory troubleshooting involves checking for errors, managing RAM usage, and potentially replacing faulty hardware. Common steps include running the Windows Memory Diagnostic tool, closing unnecessary programs, managing startup programs, and checking for hardware issues. If problems persist, consider repairing or reinstalling Windows. 
 
 
 
