@@ -31,5 +31,35 @@ https://superuser.com/questions/437918/how-do-i-find-whats-eating-up-all-of-my-s
 Explanation:
 Basic Windows memory troubleshooting involves checking for errors, managing RAM usage, and potentially replacing faulty hardware. Common steps include running the Windows Memory Diagnostic tool, closing unnecessary programs, managing startup programs, and checking for hardware issues. If problems persist, consider repairing or reinstalling Windows. 
 
+Part C:
+https://www.computerworld.com/article/1612986/windows-troubleshooting-tips-tools-techniques.html
+A practical guide from an expert covering both quick fixes and deeper repair strategies (e.g., in-place upgrades, reset options).
+My Comments:
+Excellent for experienced users and IT admins.
+Offers both simple and advanced techniques.
+Great reference for long-term Windows maintenance.
 
+https://learn.microsoft.com/en-us/windows/win32/debug/system-and-application-troubleshooting
+This official documentation covers everything from application hangs to security configuration and UI performance issues.
+My Comments:
+Best for developers and IT professionals.
+Very detailed and up-to-date.
+May be too technical for everyday users.
 
+https://www.site24x7.com/learn/windows-issues-guide.html
+Explanation:
+A well-organized guide aimed at everyday Windows users. Covers common issues: stalled apps, crashes, failed updates/installations, compatibility hiccups—with practical solutions (Task Manager, cache clearing, reinstalling, event log checks)
+
+https://www.makeuseof.com/apps-arent-working-properly-windows
+A beginner-friendly article with fixes like updating apps, clearing cache, or using Windows’ built-in app troubleshooter.
+My Comments:
+Great for beginners and casual users.
+Step-by-step instructions with visuals.
+Not designed for complex or enterprise problems.
+
+https://sqlryan.com/2022/01/run-windows-troubleshooting-wizards-manually-from-the-command-line
+Provides command-line shortcuts to launch Windows’ built-in troubleshooters directly (e.g., for apps, audio, or updates).
+My Comments:
+Good for power users who want fast access.
+Useful in automation or scripting scenarios.
+Requires careful use to avoid triggering wrong tools.
